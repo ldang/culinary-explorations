@@ -41,6 +41,8 @@ There is a Shanghai style of cooking the buns that involves frying and then stea
   - The filling appears to be pre-cooked and a little on the bland side because it is meant to be eaten with a dipping sauce.
 - [Xiao Long Bao](http://en.wikipedia.org/wiki/Xiaolongbao) (soup dumpling)
   - This uses an unleavened dough to make the wrappers.  It is wrapped similar to baozi with the pleating and twisting to make a little purse.  The secret to soup dumplings is to make a gelatinous broth that is mostly solid when refrigerated.  Combine it with the rest of your filling.  Make sure to keep things cold when assembling your dumplings, and make sure there are no holes in the final product.  
+- Chicken curry pau (Malaysian style)
+  - Judging by [this recipe](http://www.nofrillsrecipes.com/2010/09/curry-chicken-pau-bun-malaysian-monday.html), you just take normal chicken curry and wrap it in the dough.  One could possibly do this with any suitable leftover.
 - [Momos](https://youtu.be/a756lpQmYaA) (Tibetan style dumplings)
   - This also uses a dumpling dough.  The momos can be made to look like miniature bao, or they can be folded into the familiar crescent-moon dumpling shape. It has a variety of fillings.  The momos are usually dipped into some tomato-based sauce.  Here is a [nice recipe](http://www.yowangdu.com/tibetan-food/momos.html)
 - Naihuangbaozi aka Lai Wong Bao (egg yolk custard steamed bun)
