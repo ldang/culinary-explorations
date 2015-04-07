@@ -1,3 +1,7 @@
+---
+title: Baozi
+---
+
 ### Introduction
 [Baozi](http://en.wikipedia.org/wiki/Baozi) is a type of steamed bun or bread.  Some of the most recognizable baozi are the fluffy white pork buns you can find in Chinese grocery stores or the golden brown sweet baked pork buns that you might get at dim sum.  There are also buns with sweet fillings like red bean or lotus paste.  There is a particularly interesting one with an egg custard filling that can have the consistency of runny egg yolk.
 
